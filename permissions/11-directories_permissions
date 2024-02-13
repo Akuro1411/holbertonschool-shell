@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod dr+x *
+chmod +x *dir
